@@ -6,9 +6,10 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/)
 
-## 🎨 Frontend Repository
-[Front](https://github.com/Mogo943/musician-social-network-frontend)
+## 🎨 Front
+[Frontend Repository](https://github.com/Mogo943/musician-social-network-frontend)
 
+---
 ## 📋 Descripción del Proyecto
 
 Backend RESTful desarrollado como pieza central del Proyecto Final de la carrera Full Stack en Soy Henry. El sistema impulsa una red social de nicho diseñada para conectar músicos, facilitar la formación de bandas y gestionar oportunidades laborales.
@@ -90,6 +91,7 @@ npm run start:dev
 - 💼 [**Fernando Arancibia**](https://github.com/fernando-arancibia)
 - 💼 [**Ignacio Aguirre**](https://www.linkedin.com/in/ignacioaguirresite/)
 - 💼 [**Nicolas Scilipoti**](https://www.linkedin.com/in/nicolas-scilipoti/)
+
 
 
 
