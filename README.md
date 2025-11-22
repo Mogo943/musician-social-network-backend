@@ -7,7 +7,7 @@
 [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/)
 
 ## 🎨 Frontend Repository
-[![Front](https://github.com/Mogo943/musician-social-network-frontend)
+[Front](https://github.com/Mogo943/musician-social-network-frontend)
 
 ## 📋 Descripción del Proyecto
 
@@ -90,6 +90,7 @@ npm run start:dev
 - 💼 [**Fernando Arancibia**](https://github.com/fernando-arancibia)
 - 💼 [**Ignacio Aguirre**](https://www.linkedin.com/in/ignacioaguirresite/)
 - 💼 [**Nicolas Scilipoti**](https://www.linkedin.com/in/nicolas-scilipoti/)
+
 
 
 
